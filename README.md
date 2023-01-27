@@ -18,6 +18,10 @@ Unity2021.3.16fで動作確認しています。
 4. Extractして作られたマテリアルを全選択して右クリック、ChangeURPToonでシェーダーが一括変更されます。
 ![image](https://user-images.githubusercontent.com/25891107/214920605-ed58135b-cb14-4ba5-93cb-b84170a4c78c.png)
 
+5. UseAlphaClippingにチェックを入れます。
+![image](https://user-images.githubusercontent.com/25891107/214928031-d29f1329-875c-49a4-8ae1-2bd619a85f7d.png)
+
+
 # 注意
 改造再配布ご自由にどうぞ。
 このソースコードを利用したいかなる損害も責任を負いません。
